@@ -18,10 +18,6 @@ Este proyecto es una práctica básica de HTML y CSS, donde se muestran tres pá
 - Cómo aplicar estilos CSS externos para mejorar la apariencia.
 - Principios básicos de diseño responsivo.
 
-## Vista previa
-
-![Vista previa del proyecto](https://via.placeholder.com/800x400?text=Vista+Previa+del+Proyecto)
-
 ---
 
 ¡Este es tu primer paso en el mundo del desarrollo web! 🚀
